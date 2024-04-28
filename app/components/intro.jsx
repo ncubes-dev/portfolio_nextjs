@@ -8,7 +8,7 @@ const Intro = () => {
           Themba Ncube
         </h1>
         <div className='flex justify-center'>
-          <p className='text-sm md:text-xl md:w-3/4 text-center p-4 justify-center'>
+          <p className='text-sm text-black md:text-xl md:w-3/4 text-center p-4 justify-center'>
             I am am expert level native Android Developer and Web Developer with
             high level of experience in App designing and development, producing
             Quality and maintainable Apps.
@@ -23,7 +23,7 @@ const Intro = () => {
           </Link>
           <Link
             href='https://www.upwork.com/freelancers/~0131ebf2d330179145'
-            className='p-2 px-3 text-sm items-center text-center hover:border-darkBlue border-2 rounded-full border-veryLightBlue w-28 pt-4 mt-5'
+            className=' text-black p-2 px-3 text-sm items-center text-center hover:border-darkBlue border-2 rounded-full border-veryLightBlue w-28 pt-4 mt-5'
           >
             Repo
           </Link>

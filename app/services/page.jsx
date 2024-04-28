@@ -30,7 +30,7 @@ const Services = () => {
     <div>
       <div className='flex flex-col mt-2'>
         <div className='flex justify-center'>
-          <span className='font-thin pr-3 text-3xl md:text-4xl text-center '>
+          <span className='font-thin pr-3 text-3xl md:text-4xl text-center text-black'>
             Our
           </span>
           <span className='font-bold text-mediumBlue text-3xl md:text-4xl text-center '>

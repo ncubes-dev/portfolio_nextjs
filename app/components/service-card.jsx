@@ -27,7 +27,7 @@ export const ServiceCard = props => {
                     src='/checklist.png'
                     alt='checklist'
                   />
-                  <li className='pr-4'>{service}</li>
+                  <li className='pr-4  text-black'>{service}</li>
                 </div>
               </ul>
             )

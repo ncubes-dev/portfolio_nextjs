@@ -1,23 +1,25 @@
 const tsandcs = () => {
   return (
-    <div className='p-4 m-4'>
-      <h1 className='text-center font-bold'>
+    <div className='p-4 m-4 '>
+      <h1 className='text-center font-bold text-black'>
         Terms and Conditions for My Portfolio Website
       </h1>
-      <p className='text-center'>Last updated: (20 April 2024)</p>
-      <h2 className='text-center font-bold'>Introduction</h2>
-      <p className='text-center'>
+      <p className='text-center text-black'>Last updated: (20 April 2024)</p>
+      <h2 className='text-center font-bold text-black'>Introduction</h2>
+      <p className='text-center text-black'>
         These Website Standard Terms and Conditions written on this webpage
         shall manage your use of this website. These Terms will be applied fully
         and affect to your use of this Website.
       </p>
-      <h2 className='text-center font-bold'>Intellectual Property Rights</h2>
-      <p className='text-center'>
+      <h2 className='text-center font-bold text-black'>
+        Intellectual Property Rights
+      </h2>
+      <p className='text-center text-black'>
         Other than the content you own, under these Terms, I own all the
         intellectual property rights and materials contained in this Website.
       </p>
-      <h2 className='text-center font-bold'>Restrictions</h2>
-      <p className='text-center'>
+      <h2 className='text-center font-bold text-black'>Restrictions</h2>
+      <p className='text-center text-black'>
         You are specifically restricted from all of the following: publishing
         any Website material in any other media, selling, sublicensing and/or
         otherwise commercializing any Website material, publicly performing
@@ -30,7 +32,7 @@ const tsandcs = () => {
         in relation to this Website, using this Website to engage in any
         advertising or marketing.
       </p>
-      <h2 className='text-center font-bold'>Termination</h2>
+      <h2 className='text-center font-bold text-black'>Termination</h2>
       <p>
         I may terminate your access to the Site, without cause or notice, which
         may result in the forfeiture and destruction of all information
@@ -39,30 +41,32 @@ const tsandcs = () => {
         without limitation, ownership provisions, warranty disclaimers,
         indemnity, and limitations of liability.
       </p>
-      <h2 className='text-center font-bold'>Links To Other Sites</h2>
-      <p className='text-center'>
+      <h2 className='text-center font-bold text-black'>Links To Other Sites</h2>
+      <p className='text-center text-black'>
         My Site may contain links to third-party sites that are not owned or
         controlled by me. I have no control over, and assume no responsibility
         for, the content, privacy policies, or practices of any third party
         sites or services. I strongly advise you to read the terms and
         conditions and privacy policy of any third-party site that you visit.
       </p>
-      <h2 className='text-center font-bold'>Governing Law</h2>
-      <p className='text-center'>
+      <h2 className='text-center font-bold text-black'>Governing Law</h2>
+      <p className='text-center text-black'>
         This Agreement (and any further rules, polices, or guidelines
         incorporated by reference) shall be governed and construed in accordance
         with the laws of your country, without giving effect to any principles
         of conflicts of law.
       </p>
-      <h2 className='text-center font-bold'>Changes To This Agreement</h2>
-      <p className='text-center'>
+      <h2 className='text-center font-bold text-black'>
+        Changes To This Agreement
+      </h2>
+      <p className='text-center text-black'>
         I reserve the right, at my sole discretion, to modify or replace these
         Terms and Conditions by posting the updated terms on the Site. Your
         continued use of the Site after any such changes constitutes your
         acceptance of the new Terms and Conditions.
       </p>
-      <h2 className='text-center font-bold'>Contact Information</h2>
-      <p className='text-center'>
+      <h2 className='text-center font-bold text-black'>Contact Information</h2>
+      <p className='text-center text-black'>
         If you have any questions about these Terms and Conditions, please get
         in touch through the contact form on my website.
       </p>

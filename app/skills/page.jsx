@@ -4,10 +4,10 @@ const Skills = () => {
   return (
     <div>
       <div className='flex flex-col justify-center mt-10 pt-5'>
-        <h1 className='md:hidden font-thin text-mediumBlue text-3xl md:text-4xl text-center '>
+        <h1 className='md:hidden font-thin text-black text-3xl md:text-4xl text-center '>
           My
         </h1>
-        <span className='hidden md:block font-thin pr-3 text-3xl md:text-4xl text-center '>
+        <span className='hidden md:block text-black font-thin pr-3 text-3xl md:text-4xl text-center '>
           My
         </span>
         <span className='font-bold text-mediumBlue text-3xl md:text-4xl text-center '>
@@ -27,7 +27,7 @@ const Skills = () => {
             />
             <h1 className='font-bold text-mediumBlue text-xl '>Android Dev</h1>
           </div>
-          <p className='prose pt-3 hover:text-bold '>
+          <p className='prose pt-3 hover:text-bold text-black '>
             I am a native Android developer with experience building and
             optimizing mobile applications. I have published various mobile apps
             on the Google Play store and have extensive experience with Android
@@ -50,7 +50,7 @@ const Skills = () => {
               Web Development
             </h1>
           </div>
-          <p className=' pt-3 hover:text-bold'>
+          <p className=' pt-3 hover:text-bold text-black'>
             I am a NextJs frontend web developer with experience in building and
             optimizing responsive high quality applications. I have published a
             number of apps including this portfolio website.
@@ -68,7 +68,7 @@ const Skills = () => {
             />
             <h1 className='font-bold text-mediumBlue text-xl '>UI/UX Design</h1>
           </div>
-          <p className=' pt-3 hover:text-bold  '>
+          <p className=' pt-3 hover:text-bold text-black '>
             I am a UI/UX designer with experience web design and mobile design .
             I have extensive experience in app design using technologies like
             figma and I am also well familiar with various sources of icons and

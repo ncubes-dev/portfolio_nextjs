@@ -63,7 +63,7 @@ const Contacts = () => {
     <div className='flex flex-col w-full items-center'>
       <div className='flex flex-col mt-2 pt-5  md:mt-10'>
         <div className='flex justify-center'>
-          <span className='font-thin pr-3 text-3xl md:text-4xl text-center '>
+          <span className='font-thin pr-3 text-3xl md:text-4xl text-center  text-black'>
             Contact
           </span>
           <span className='font-bold text-mediumBlue text-3xl md:text-4xl text-center '>

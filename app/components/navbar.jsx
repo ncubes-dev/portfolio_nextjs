@@ -55,17 +55,17 @@ const Navbar = () => {
             N
           </h1>
         </div>
-        <h1 className=' hidden md:flex pt-0 font-extrabold text-3xl md:text-4xl'>
+        <h1 className=' text-black hidden md:flex pt-0 font-extrabold text-3xl md:text-4xl'>
           cubedev
         </h1>
       </div>
       <div>
         <div className='px-4 hidden md:flex'>
-          <Link className='p-2 rounded-full hover:bg-veryLightBlue' href='/'>
+          <Link className='  text-white p-2 rounded-full hover:bg-veryLightBlue' href='/'>
             Home
           </Link>
           <Link
-            className='p-2 rounded-full hover:bg-veryLightBlue'
+            className='p-2  text-white rounded-full hover:bg-veryLightBlue'
             href='/skills'
           >
             Skills
@@ -77,7 +77,7 @@ const Navbar = () => {
             Services
           </Link>
           <Link
-            className='p-2 rounded-full hover:bg-veryLightBlue'
+            className='p-2  text-white rounded-full hover:bg-veryLightBlue'
             href='/platforms'
           >
             Platforms
