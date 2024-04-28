@@ -61,23 +61,26 @@ const Navbar = () => {
       </div>
       <div>
         <div className='px-4 hidden md:flex'>
-          <Link className='  text-white p-2 rounded-full hover:bg-veryLightBlue' href='/'>
+          <Link
+            className=' text-black p-2 rounded-full hover:bg-veryLightBlue'
+            href='/'
+          >
             Home
           </Link>
           <Link
-            className='p-2  text-white rounded-full hover:bg-veryLightBlue'
+            className='p-2 text-black rounded-full hover:bg-veryLightBlue'
             href='/skills'
           >
             Skills
           </Link>
           <Link
-            className='p-2 rounded-full hover:bg-veryLightBlue'
+            className='p-2 rounded-full text-black hover:bg-veryLightBlue'
             href='/services'
           >
             Services
           </Link>
           <Link
-            className='p-2  text-white rounded-full hover:bg-veryLightBlue'
+            className='p-2 text-black rounded-full hover:bg-veryLightBlue'
             href='/platforms'
           >
             Platforms
