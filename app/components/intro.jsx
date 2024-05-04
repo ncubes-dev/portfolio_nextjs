@@ -3,7 +3,9 @@ const Intro = () => {
   return (
     <div>
       <div className='flex flex-col justify-items-center'>
-        <h1 className='  text-4xl md:text-6xl text-center'>Hi! I Am{'.'}</h1>
+        <h1 className='  text-4xl  text-black md:text-6xl text-center'>
+          Hi! I Am{'.'}
+        </h1>
         <h1 className='font-bold text-mediumBlue text-3xl md:text-4xl text-center p-2 '>
           Themba Ncube
         </h1>

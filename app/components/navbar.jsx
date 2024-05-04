@@ -56,7 +56,7 @@ const Navbar = () => {
           </h1>
         </div>
         <h1 className=' text-black hidden md:flex pt-0 font-extrabold text-3xl md:text-4xl'>
-          cubedev
+          cubesdev
         </h1>
       </div>
       <div>
