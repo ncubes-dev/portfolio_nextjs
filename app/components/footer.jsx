@@ -9,7 +9,7 @@ const Footer = () => {
       </div>
       <div className='flex flex-col md:flex-row items-center justify-between w-full '>
         <h1 className='italic p-3 text-white text-sm '>
-          ©2024 All Rights Reserved. Ndozline
+          ©2024 All Rights Reserved. Ncubesdev
         </h1>
         <div className='flex divide-x '>
           <Link className=' text-white italic text-sm p-3' href='/tsandcs'>
